@@ -1,0 +1,3 @@
+admin,admin,EMPLOYEE,Mateusz,Magierski
+admin1,admin1,MANAGER,Mateusz,Magierski
+aaa,aaaaa,MEMBER,aaa,aaaaa
